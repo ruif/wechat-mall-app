@@ -8,7 +8,7 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "1.7.0",
+	"libVersion": "1.7.2",
 	"appid": "wx4a53c928f4bdbad5",
 	"projectname": "wechat-mall",
 	"condition": {
